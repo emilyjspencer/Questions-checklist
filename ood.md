@@ -54,3 +54,6 @@
 * Give an example of a violation of the Law of Demeter
 * What is the Tell Don't Ask principle
 * Give an example of an analogy of a tell don't ask system
+* Give an example of a destructive type of dependency (all are basically)
+* what is YAGNI
+* what is KISS
