@@ -42,3 +42,15 @@
 * What is meant by a class that is highly cohesive
 * What is meant by responsibility-driven design
 * What makes a good designer
+* Why does DRY code tolerate change
+* What does wrapping an instance variable in a public method i.e. attribute reader do
+* Why are direct references to complicated structures bad
+* What is the purpose of the Ruby Struct class
+* What makes methods easy to reuse and change
+* What makes classes easy to reuse and change
+* What are the benefits associated with methods that adhere to SRP
+* An object has a dependency when it knows.....
+* What is the Law of Demeter(LoD)
+* Give an example of a violation of the Law of Demeter
+* What is the Tell Don't Ask principle
+* Give an example of an analogy of a tell don't ask system
