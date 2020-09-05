@@ -106,8 +106,8 @@
 * what is array.last
 * what is array.each
 * what is array.reverse
-* what is array.inert
-* what is array.po
+* what is array.invert
+* what is array.pop
 * what is array.push
 * what is array.rotate
 * what is array.shuffle
@@ -124,7 +124,18 @@
 * what is the allow instance
 * when use allow and when use expect i.e. allow().to receive vs. expect().to receive
 * when should you use a double
-* What is meany by stubbing at the point of creation
+* What is meant by stubbing at the point of creation
 * what is a before hook and why use it (testing)
 * why use a let statement in tests
 * why should we isolate tests
+* What is the London style of mocking
+* What is the Chicago style of mocking
+* How might be overcome limitations associated with the London style of mocking
+
+* what is meant by a method signature
+* What is the || operator
+* What can the || operator be used to do?
+* What is the purpose of the fetch() method in Ruby
+* What does the merge() method do
+* What is encryption
+* What is digest

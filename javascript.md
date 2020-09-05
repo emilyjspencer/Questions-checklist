@@ -145,3 +145,17 @@ enzyme-adapter-react-16
 * what is a closure
 * what is the module pattern
 * jQuery's $.ajax() 
+* What is a pure function
+* what does the map method do
+* what are the three arguments that addEventListneer() can take
+* what is destructuring
+* what is a good way to organize imports
+* Why do we need the this keyword
+* how can we give class methods access to this
+* what is the virtual DOM
+* what is babel
+* what is Webpack
+* what is jsx
+* where is the entry point to React
+* what is the super() method
+* what does the bind() method do
