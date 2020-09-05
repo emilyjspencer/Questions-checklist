@@ -57,6 +57,10 @@
 * Give an example of a destructive type of dependency (all are basically)
 * what is YAGNI
 * what is KISS
+* What is the Hollywood Principle - don't call us, we'll call you
+* What is meant by 'Encapsulate what varies'
+* What is meant by 'Composition over inheritance'
+* What is meant by 'Program against abstractions'
 * Why might it be bad to use fixed-order arguments in methods
 * How can you remove argument-order dependencies
 * What are the benefits of injecting dependencies
@@ -64,5 +68,19 @@
 * If default(arguments) are more than just integers/strings - implement what?
 * What is meant by implementation
 * What is a factory
+* What is meant by clean code
+* Why do we need to write clean code
+* What makes code that has been written clean
+* What are the three categories of design patterns
+* What is the singleton pattern
+* What is the abstract factory pattern
+* What is the prototype pattern
+* What is the adapter pattern
+* What is the bridge pattern
+* What is the decorator pattern
+* What is the template pattern
+* What is the behavioural pattern
+* What is the observer pattern
+
 
 
