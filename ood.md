@@ -57,3 +57,12 @@
 * Give an example of a destructive type of dependency (all are basically)
 * what is YAGNI
 * what is KISS
+* Why might it be bad to use fixed-order arguments in methods
+* How can you remove argument-order dependencies
+* What are the benefits of injecting dependencies
+* What is meant by verbosity
+* If default(arguments) are more than just integers/strings - implement what?
+* What is meant by implementation
+* What is a factory
+
+
