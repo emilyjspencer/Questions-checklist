@@ -81,6 +81,18 @@
 * What is the template pattern
 * What is the behavioural pattern
 * What is the observer pattern
+* What is meant by public interface
+* What is meant by a class's interface
+* What is meant by a class's public interface
+* What is meant by a class's private interface
+* Describe an analogy for public and private interfaces
+* Describe an alternative type of interface - not belonging to a class
+* What are the characteristics of public interfaces
+* What are the charactersitics of private interfaces
+* Public methods should read like a description of...
+* What is a domain object
+* What is the purpose of a sequence diagram
+* What is UML
 
 
 
