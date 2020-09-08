@@ -16,4 +16,7 @@
 * What are other terms used to describe the Parent class
 * What are other terms ued to describe the Child class
 * What is duck typing
+* In Ruby, what isn't an object
+* What are the benefits of using modules
+* What is a domain object
 
