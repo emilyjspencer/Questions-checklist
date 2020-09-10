@@ -113,9 +113,10 @@
 * In a class diagram, what is used to represent an association relationship where the association is only know on one side
 * With a class diagram, what is used to represent an association relationship where the association is known on both sides
 * In a sequence diagram, what is a lifeline
-* In a sequence diagra, what is an activation
+* In a sequence diagram, what is an activation
 * In a sequence diagram, what is a self message
 * In a sequence diagram, what is a recursive message
+* In a sequence diagram, how would you show a private method
 
 
 
