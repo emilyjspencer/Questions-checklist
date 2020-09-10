@@ -93,6 +93,30 @@
 * What is a domain object
 * What is the purpose of a sequence diagram
 * What is UML
+* What is the difference between class-based design and message-based design
+* What is the purpose of a class diagram
+* What is meant by context
+* What is the difference between knowing 'what' and knowing 'how'
+* Objects that have a simple context are....
+* Objects that have a complicated context are....
+* What does it mean for an object to be independent of its context
+* What is used so that objects can collaborate without knowing who each other is
+* What is a conceptual model
+* What are the building blocks of UML
+* What is meant by an actor
+* What is a sequence diagram
+* What is a class diagram
+* What is a use-case diagram
+* In a use-case diagram, what is used to represent a use-case
+* In a use-case diagram, what is used to represent an actor/system user
+* In a class diagram, what is used to represent an inheritance relationship
+* In a class diagram, what is used to represent an association relationship where the association is only know on one side
+* With a class diagram, what is used to represent an association relationship where the association is known on both sides
+* In a sequence diagram, what is a lifeline
+* In a sequence diagra, what is an activation
+* In a sequence diagram, what is a self message
+* In a sequence diagram, what is a recursive message
+
 
 
 
