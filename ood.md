@@ -117,6 +117,18 @@
 * In a sequence diagram, what is a self message
 * In a sequence diagram, what is a recursive message
 * In a sequence diagram, how would you show a private method
+* What is the difference between knowing of and knowing about a class
+* What is the difference between knowing what and knowing how
+* What is the public keyword
+* What is the protected keyword
+* What is the private keyword
+* Sequence diagrams help you to set ..........
+* What does Rails prefix private methods with
+* How is the Law of Demeter often paraphrased as
+* What is message chaining colloquially referred to as
+* What is meant by the Polymorphic Open/Closed principle
+* What is meant by a train wreck'
+* How can you avoid violating the Law of Demeter
 
 
 

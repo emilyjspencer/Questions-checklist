@@ -19,4 +19,7 @@
 * In Ruby, what isn't an object
 * What are the benefits of using modules
 * What is a domain object
+* What is an enumerable
+* What is a wrapper method
+* What is delegation
 
