@@ -129,6 +129,9 @@
 * What is meant by the Polymorphic Open/Closed principle
 * What is meant by a train wreck'
 * How can you avoid violating the Law of Demeter
+* What are duck types
+* What is meant by dependent-laden code
+
 
 
 

@@ -22,4 +22,6 @@
 * What is an enumerable
 * What is a wrapper method
 * What is delegation
+* What is spaghetti code
+* How does object-oriented programming compare to procedural programming
 

@@ -4,8 +4,6 @@
 * What is the difference between mutable and immutable objects
 * what is an example of an immutable type in JavaScript
 * what is an example of a mutable type in JavaScript
-* what is an example of an immutable object in JavaScript
-* what is an example of a mutable object in JavaScript
 * what is an http client
 * give some examples of http clients
 * what is the advantage of axios over fetch
@@ -20,6 +18,7 @@
 * what is an asynchronous request
 * what is a promise
 * what is a callback
+* What is the call stack
 * What does XSRF stand for
 * What is XSRF
 * why can we use async.....await with axios
@@ -159,3 +158,37 @@ enzyme-adapter-react-16
 * where is the entry point to React
 * what is the super() method
 * what does the bind() method do
+* How does React work
+* How would you write an inline style in React
+* What are props
+* What are refs
+* How do you write comments in React
+* What are the benefits of using React
+* What are the major features of React
+* What is the Virtual DOM
+* What are the differences between React and Vue
+* What are the similarities between React and Vue
+* What are the difference between React and Angular
+* What are the similarities between React and Angular
+* What is context
+* Where in a classical component should AJAX requests be made
+* What is the difference between a presentational component and a container
+* What is the difference between state and props
+* What happens when setState() is called
+* What is the difference between a React component and an element
+* What is the purpose of a key in a list
+* What happens during the lifecycle of a React component
+* How is the precent behaviour of an event callback in React prevented
+* What is meant by mounting a component
+* How is a property passed from a parent component to a child component
+* How can a component be prevented from rendering
+* Where is the state kept in a React and Redux application
+* How are events handled in React
+* What is the difference between a controlled component and an uncontrolled component
+* What is the purpose of Redux
+* Why should components be capitalized
+* What is meant by reconciliation
+* What is the difference between a component and a container in React Redux
+* What are inline conditional expressions
+* What are fragments
+* What is the difference between React and React Native
