@@ -4,6 +4,9 @@
 * What is the difference between mutable and immutable objects
 * what is an example of an immutable type in JavaScript
 * what is an example of a mutable type in JavaScript
+* What are the primitive data types in JavaScript
+* What is the compound data type in JavaScript
+* What is meant by primitive e.g. primitive data type
 * what is an http client
 * give some examples of http clients
 * what is the advantage of axios over fetch
@@ -19,6 +22,18 @@
 * what is a promise
 * what is a callback
 * What is the call stack
+* What does filter() do
+* What does find() do
+* What does every() do
+* What does forEach() do
+* What does findIndex() do
+* Write a for loop
+* Write a while loop
+* What is meant by the Virtual DOM
+* Reverse a string
+* Reverse an integer
+* What is includes()
+* Name some non-destructive JavaScript methods
 * What does XSRF stand for
 * What is XSRF
 * why can we use async.....await with axios
@@ -84,8 +99,18 @@
 * what is a presentational component
 * why add a second argument to the useEffect hook
 * why add an empty array as the second argument to the useEffect hook
-* why use onClick
-* why use onChange
+* What is the difference between an event handler and an event listener
+* What is the purpose of an event handler
+* What does mounting mean with regards to the mounting phases of the component lifecycle
+* In what order are the four lifecycle methods called in the mounting phase
+* What does JSX stand for
+* What does JSX allow us to do
+* What rules does JSX follow
+* Why do we need a fragment or a wrapping div
+* why use onClick in React or onclick in vanilla JS
+* why use onChange in React or onchange in vanilla JS
+* Why use onKeyPress in React or onkeypress in vanilla JS
+* Why is componentDidUpdate() passed prevProps and prevState
 * what is getDerivedStateFromProps
 * what does the setState() method in a classical component cause
 * what two things cause a re-render of the page
@@ -144,7 +169,45 @@ enzyme-adapter-react-16
 * what is a closure
 * what is the module pattern
 * jQuery's $.ajax() 
+* What is the difference between slice() splice() substr() substring()
+* What is the jQuery syntax
+* How do we create a new html element in vanilla JS
+* What is createElement()
+* What is appendChild()
+* What is removeChild()
+* What is getElementById()
+* What is innerHTML()
+* What is getElementsByClassName()
+* What is getElementsByTagName()
+* What is querySelectorAll()
+* What is style.property()
+* What is setAttribute()
+* What is write()
+* What is replaceChild()
+* What arguments are passed to replaceChild()
+* Why do these methods need to be called on the document
+* What does the document represent
+* What is the DOM
+* What is anchors()
+* What is applets()
+* What is baseURI()
+* What is body()
+* What is cookie()
+* What is doctype()
+* What is documentElement()
+* What is documentMode()
+* What is documentURI()
+* What does addEventListener() do
+* What does removeEventListener() do
+* What is the difference between charAt() and charCodeAt()
 * What is a pure function
+* What is a node
+* What is parentNode
+* What is childNodes
+* What is firstChild
+* What is lastChild
+* What is nextSibling
+* What is previousSibling
 * what does the map method do
 * what are the three arguments that addEventListneer() can take
 * what is destructuring
