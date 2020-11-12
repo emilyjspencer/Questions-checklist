@@ -11,6 +11,11 @@
 * What is an API
 * What does API stand for
 * What is GraphQL
+* Why and where is GraphQL useful
+* What is ! in GraphQl
+* How can you implement error handling in GraphQL
+* What is a GraphQL schema
+* What is the difference between mutation and query
 * What are the limitations of REST
 * What does CRUD stand for
 * What are the main HTTP verbs
