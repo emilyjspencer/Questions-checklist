@@ -19,3 +19,20 @@
 * How do you write a while loop in Java
 * How do you write a for loop in Java
 * Does Java support multiple inheritance
+* What is method overriding
+* What is meant by type casting
+* What are the different types of type casting and how do they differ
+* What is meant by Interface
+* What is a LinkedList
+* What is a HashMap
+* What is a HashSet
+* What are Wrapper classes
+* What is a Lambda
+* What is the difference between Exception adn Error
+* What is JVM
+* What are the different types of exceptions and how do they differ
+* What is the difference between JDK and JRE
+* What is autoboxing
+* What is unboxing
+* How are JSP requests handler
+* What is constructor overloading
