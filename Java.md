@@ -36,3 +36,14 @@
 * What is unboxing
 * How are JSP requests handler
 * What is constructor overloading
+* When should you use a for loop over a while loop
+* What is the difference between a while loop and a do ...while loop
+* How do you create an array in Java
+* What is meant by an expression
+* What is the purpose of the main method
+* Are mixed arrays legal in Java
+* What is meant by a language being statically typed
+* What is the benefit of static checking
+* Why use the public keyword over the static keyword with regards to methods
+* How do you create an instance of a class in Java
+* What can constructors be used for
