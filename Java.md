@@ -57,8 +57,14 @@
 * What is meant by public (access modifier - class)
 * What are the access modifiers
 * What are the non-access modifiers
+* What is the Java API
+* What is the Java API divided into
 * What is an abstract class
 * What is an abstract method
+* What is Java SE
+* What is Java EE
+* What is Java ME
+* What is JavaFX
 * What is meant by final (non-access modifier - class)
 * What is meant by abstract (non-access modifier - class)
 * What is meant by final (non-access modifier - method/attribute)
@@ -69,5 +75,46 @@
 * What is meant by volative (non-access modifier - method/attribute)
 * How do you indicate that a class inherits from another class
 * What is the body of an abstract class provided by
+* How do you guarantee/achieve encapsulation in Java
+* What is the this keyword in Java
+* What are the benefits of encapsulation
+* What is a get method
+* What is a set method
+* What are the main uses of the this keyword
+* What are the two types of packages
+* How do you use class or a package from the Java API
+* What is JRE
+* What is composition
+* Whic class is the superclass for all classes
+* What are the different types of inheritance in Java
+* What is constructor chaining
+* What is the difference between composition and aggregation
+* What is indexOf()
+* What is object cloning
+* Can the main() method be overloaded
+* What is static binding
+* What are the four main types of application that can be created using Java
+* What are the four main Java platforms
+* What is JSP
+* What is EJB
+* What is JPA
+* What is multithreading
+* What is JDK
+* Why is Java considered to be distributed
+* Why is Java considered to be platform-independent
+* What is an inner class
+* What is serialization
+* What is synchronization
+* What is the purpose of the strictfp keyword
+* What is aggregation
+* What is the super keyword
+* What is the instanceof operator
+* What is meant by dynamic binding
+* What is the JIT compiler
+* How many types of memory areas are allocated by JVM
+* What is classloader
+* What are the different types of constructors 
+* Can constructors be overloaded
+
 
 
