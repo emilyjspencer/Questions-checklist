@@ -47,3 +47,27 @@
 * Why use the public keyword over the static keyword with regards to methods
 * How do you create an instance of a class in Java
 * What can constructors be used for
+* What are the types of modifiers in Java and what are the differences between them
+* What is a package
+* What is meant by public (access modifier - method)
+* What is meant by private (access modifier - method)
+* What is meant by protected (access modifier - method)
+* What is meant by default (access modifier- method)
+* What is meant by default (access modifier - class)
+* What is meant by public (access modifier - class)
+* What are the access modifiers
+* What are the non-access modifiers
+* What is an abstract class
+* What is an abstract method
+* What is meant by final (non-access modifier - class)
+* What is meant by abstract (non-access modifier - class)
+* What is meant by final (non-access modifier - method/attribute)
+* What is meant by static (non-access modifier - method/attribute)
+* What is meant by abstract (non-access modifier - method/attribute)
+* What is meant by transient (non-access modifier - method/attribute)
+* What is meant by synchronized (non-access modifier - method/attribute)
+* What is meant by volative (non-access modifier - method/attribute)
+* How do you indicate that a class inherits from another class
+* What is the body of an abstract class provided by
+
+
