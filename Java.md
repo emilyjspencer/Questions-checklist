@@ -49,13 +49,37 @@
 * What can constructors be used for
 * What are the types of modifiers in Java and what are the differences between them
 * What is a package
+* How many bytes does a byte take
+* How many bytes does a char take
+* How many bytes does a float take
+* How many bytes does a double take
+* How many bytes does a bool take
+* How many bytes does a short take
+* How many bytes does a long take
+* How many bytes does an int take
+* What is meant by a namespace
+* How do you import a class in Java
+* Do you need to allocate memory when dealing with primitive data types
+* Do you need to allocate memory when dealing with reference types
+* What is IntelliSense
+* What is Intellij
+* What is the shortcut for System.out.println()
+* What is a utility class
+* What is the PrintStream class
+* What primitive data type can store numbers up to two billion
+* What suffix needs to be added when dealing with long primitive data types
+* What suffix needs to be added when dealing with floats
+* What is a unicode character
+* Why is a variable name also known as an identifier
 * What is meant by public (access modifier - method)
 * What is meant by private (access modifier - method)
 * What is meant by protected (access modifier - method)
 * What is meant by default (access modifier- method)
 * What is meant by default (access modifier - class)
 * What is meant by public (access modifier - class)
+* What can be used to make large numbers in Java more readable
 * What are the access modifiers
+* What is the difference between a bit and a byte
 * What are the non-access modifiers
 * What is the Java API
 * What is the Java API divided into
@@ -85,7 +109,7 @@
 * How do you use class or a package from the Java API
 * What is JRE
 * What is composition
-* Whic class is the superclass for all classes
+* Which class is the superclass for all classes
 * What are the different types of inheritance in Java
 * What is constructor chaining
 * What is the difference between composition and aggregation
@@ -113,8 +137,54 @@
 * What is the JIT compiler
 * How many types of memory areas are allocated by JVM
 * What is classloader
+* What is meant by implicit casting
+* What is meant by explicit casting
 * What are the different types of constructors 
 * Can constructors be overloaded
+* How do arrays in Java differ from arrays in Ruby
+* What is another name for a constant
+* How is the logical and operator written
+* How is the logical or operator written
+* How is the not operator written
+* What is an abstract class
+* What is an abstract method
+* What is another name for an inner class
+* What does charAt() do
+* What does codePointAt() do
+* What does contains() do
+* What does concat() do
+* What does endsWith() do
+* What does equals() do
+* What does format() do
+* What does compareTo() do
+* What does indexOf() string do
+* What does length() do
+* What does replace()  do
+* What does replaceAll() do
+* What does replaceFirst() do
+* What does split() do
+* What does startsWith() do
+* What does trim() do
+* What does valueOf() do
+* What does toUpperCase() do
+* What does toString() do
+* What does toLowerCase() do
+* What does toCharArray() do
+* What does substring() do
+* What does regionMatches() do
+* What does matches() do
+* What does isEmpty() do
+* What does intern() do
+* What does hashCode() do
+* What does getChars() do
+* What benefits are associated with inheritance
+* What benefits are associated with polymorphism
+* How do you access an inner class
+* What is a marker interface
+* How can a Java class be made read-only
+* How do you create a package
+
+
 
 
 
