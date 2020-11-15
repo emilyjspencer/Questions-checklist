@@ -137,6 +137,8 @@
 * What is the JIT compiler
 * How many types of memory areas are allocated by JVM
 * What is classloader
+* What is the try keyword (error handling)
+* What is the catch keyword (error handling)
 * What is meant by implicit casting
 * What is meant by explicit casting
 * What are the different types of constructors 
@@ -177,13 +179,45 @@
 * What does intern() do
 * What does hashCode() do
 * What does getChars() do
+* What is n+
+* What is n*
+* What is n?
+* What is n{x}
+* What is n{x,y}
+* What is n{x,}
 * What benefits are associated with inheritance
 * What benefits are associated with polymorphism
 * How do you access an inner class
 * What is a marker interface
 * How can a Java class be made read-only
 * How do you create a package
-
+* What is the matcher() method
+* How would you capitalize a string in Java
+* What exactly is a regular expression
+* Name some exception types in Java
+* How do you create a custom error message in Java
+* What is an Enum
+* What is the find() method
+* How would you reverse a string in Java
+* How would you replace all instances of a particular letter with another in Java - e.g. would use gsub() in Ruby
+* What is Pattern.compile()
+* What are come of the flags that belong to the compile() method and what do they do
+* How would you reverse an array in Java
+* What is [abc]
+* What is meant by a format specifier
+* What is [^abc]
+* What is [0-9]
+* How do you handle errors/exceptions in Java
+* What is the finally keyword with regards to error handling in Java
+* What is |
+* What it .
+* What is ^
+* What is $
+* What is \d
+* What is \s
+* What is \b
+* What is \uxxxx
+* How do you get input from a user in Java
 
 
 
