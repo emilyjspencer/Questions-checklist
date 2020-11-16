@@ -149,6 +149,7 @@
 * How is the logical or operator written
 * How is the not operator written
 * What is an abstract class
+* What is the values() method
 * What is an abstract method
 * What is another name for an inner class
 * What does charAt() do
@@ -179,6 +180,10 @@
 * What does intern() do
 * What does hashCode() do
 * What does getChars() do
+* What is enum short for
+* How do you create an enum
+* When should be use an enum
+* What are the differences between classes and enums
 * What is n+
 * What is n*
 * What is n?
