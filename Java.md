@@ -182,8 +182,9 @@
 * What does getChars() do
 * What is enum short for
 * How do you create an enum
-* When should be use an enum
+* When should we use an enum
 * What are the differences between classes and enums
+* What characteristics do enums have
 * What is n+
 * What is n*
 * What is n?

@@ -52,5 +52,8 @@
 * Which request tests are idempotent
 * What should HEAD return
 * What is the difference between PUT and PATCH
+* What does the next() function do
+* In which order are middleware functions called
+* Why do middleware functions have to be placed before the routes
 
 
