@@ -23,5 +23,55 @@
 * how would you check a data type
 * What is type conversion
 * How do you generate a random number in Python
+* How do you add a new key/value pair to a dictionary in Python
+* How do you find the length of a string
+* Are strings zero-based indexed
+* How would you print the third to fifteenth characters in a string
+* What does the slice() method do
+* What does strip() do
+* What does upper() do
+* What does lower() do
+* What does replace() do
+* What does split() do
+* How can you do string interpolation in Python
+* What is Str.format()
+* What are F-strings
+* What is the template class
+* What is capitalize()
+* What is casefold()
+* What is count()
+* What is encode()
+* What is endswith()
+* What is index()
+* What is join()
+* What is split()
+* List some false values
+* How does a for loop in Python work
+* What is a Bitwise operator
+* How many types of collections are there in Python
+* What is ordered and immutable
+* What is unordered and unindexed
+* What is ordered and mutable
+* What is unoredered mutable and indexed
+* What is append()
+* What is insert()
+* What is remove()
+* What is pop()
+* What is clear()
+* What is copy()
+* What is list()
+* What is extend()
+* What is sort()
+* What can be prefixed to the arguments of a function if it isn't know how many arguments will be passed
+* What is pip
+* What is pipenv
+* What is a Pipfile
+* What is Virtualenv
+* What is SyntaxError
+* What is NameError
+* How do you get input from the user
+* What is the purpose of whitespace in Python
+
+
 
 
