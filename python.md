@@ -67,10 +67,33 @@
 * What is pipenv
 * What is a Pipfile
 * What is Virtualenv
+* What are decorators
+* What is monkey patching
 * What is SyntaxError
 * What is NameError
+* What is PEP 8
+* What is pickling
+* What is unpickling
+* What are descriptors
 * How do you get input from the user
 * What is the purpose of whitespace in Python
+* How do you cast an integer into a string
+* How do you do multiple assignment
+* Is it possible to return multiple value from a Python function
+* What is meant by a positional argument
+* What is meant by a keyword argument
+* What is a callable
+* What is the pass statement
+* When should a tuple be used
+* What is the difference between range and xrange
+
+* When should a list be used
+* When should a dictionary be used
+* List the immutable built-in data types
+* List the mutable built-in data types
+* What is a lambda function
+
+
 
 
 
