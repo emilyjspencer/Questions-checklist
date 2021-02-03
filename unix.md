@@ -137,5 +137,42 @@
 * what does * mean (regex)
 * what does .* mean (regex)
 * what does \ mean (regex)
+* what does grep -v doe
 * what is the purpose of the find command
+* copy files from further up the tree into current directory
+* remove read permissions for group and read permissions for other in one go
+* list the contents of the directory stored in variable x
+* find regular files in your home directory or subdirectories
+which you have modified within the last day and 
+store the results in a file called x
+* display all the lines in x file that do not start with
+a letter
+* display a list of all files and directories in your
+home directory including hidden files
+* display a list of only the hidden files and directories
+in your home directory
+* count the lines in x file that contain the
+word date
+* display just the first 3 characters
+of each line in x file
+* list all the people logged into the
+system and sort the output alphabetically
+by username
+* list only the usernames of those who are logged into
+the system
+* identify the process id of your bash shell
+* count the number of directories and subdirectories
+in your home directory
+* identify the directory which holds the touch command
+* find all the regular files in/etc
+or subdirectories of /etc that start with the letter p
+Store the results in a file called 
+newfile  and discard all error messages
+into /dev/null
+* display the contents of the /etc/hosts files but replace each
+: with *
+* can you pass filenames to tr
+* list the size, in characters, of each file in your unixmock directory
+and store the output in a file called a
+
 
