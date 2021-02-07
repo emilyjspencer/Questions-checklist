@@ -137,7 +137,7 @@
 * what does * mean (regex)
 * what does .* mean (regex)
 * what does \ mean (regex)
-* what does grep -v doe
+* what does grep -v do
 * what is the purpose of the find command
 * copy files from further up the tree into current directory
 * remove read permissions for group and read permissions for other in one go
@@ -172,7 +172,28 @@ into /dev/null
 * display the contents of the /etc/hosts files but replace each
 : with *
 * can you pass filenames to tr
-* list the size, in characters, of each file in your unixmock directory
-and store the output in a file called a
+* list the size, in characters, of each file in home directory
+and store the output in a file called a .....
+* When do you use [[ ]] 
+* When do you use []
+* When do you use (())
+* When do you use ()
+* How do you write a for loop (shell scripting)
+* how do you write a while loop
+* how would you loop recursively
+* how do you iterate through arguments pass to the script
+* what needs to go at the top of a scripting file
+* how do you break out of a loop
+* how do you terminate the current iteration of a loop
+* how do you dictate the number of levels of the loop to jump out of
+* how do you get the second character of each line
+* how do you get the first five characters
+* how do you get the fifth character to the end of the line
+* how do you get the third through seventh char
+* how do you get the third and seventh character
+* how do you retrieve the second field using ":" as a delimiter
+* how do you retrieve the second and fouth field using : as delimiter 
+* using ":" as the delimiter, how do you sort the lines by the second key and sort in numeric order rather than alphabetically
+
 
 
