@@ -224,6 +224,115 @@
 * What is \b
 * What is \uxxxx
 * How do you get input from a user in Java
+* what is the difference between String and char
+* What must all Java programs have
+* What is a Java perspective
+* What must the filename match
+* Can you declare a variable without assigning it a value
+* How can you prevent variables from being overwritten
+* How can you declare multiple variables at once
+* What exactly are identifiers
+* What are the primitive data types
+* What are the non-primitive data types
+* What are the two types of floating point numbers
+* What is the difference between them
+* What is a reference type
+* Which data types can be null
+* Which data types start with a capital letter
+* What is type casting in Java
+* What are the two types of type casting in Java
+* Which of the two types of casting are done automatically
+* Which of the two tyeps of casting are done manually
+* What are the different categories of Java operators
+* What is the for each loop for
+* When do we use a for loop
+* When do we use a while loop
+* When do we use a do while loop
+* What is a wrapper class
+* How do we convert a String to an integer
+* What is the default whole number data type
+* What is the default floating point number data type
+* What are the differences between List and ArrayList
+* Is an array mutable or immutable
+* Can you add or remove an item from an array
+* How do you write a simple array
+* How do you create an empty array with six variables
+* How do you create an ArrayList
+* Which loop is the most commonly used loop
+* What data structure can the get() method be used on
+* What does the get() method do
+* What data can the size() method be used on
+* What does the size() method do
+* How do you find the length of a string
+* Do arrays need to be imported
+* Do arraylists need to be imported
+* What interface do arrays use
+* Wht interface do arraylists use
+* Do arrays have methods
+* Do arraylists have methods
+* How do you write a for each loop
+* How do you write an if/else if/else statement
+* How do you write a ternary operator
+* What case should variables be written in
+* What can variable names start with
+* What can variable names contain
+* what does void mean
+* what does static mean
+* what is the break statement
+* what is the continue statement
+* when are the break and continue statements 
+* is reverse() a string or an array method
+* can you use for each with an arraylist
+* what does charAt() do
+* what does concat() do
+* what does compareTo() do
+* what does endsWith() do
+* what does format() do
+* what does equals() do
+* when comparing primitive types - what should you use
+* when comparing non-primitive types - what should you use
+* what does getBytes() do
+* what is a map
+* what is length()
+* what does matches() do
+* what does indexOf() do
+* what does intern() do
+* what does isEmpty() do
+* what does regionMatches() do
+* what does offsetByCodePoints() do
+* what does hashcode() do
+* what does getChars() do
+* what does split() do
+* what does replace() do
+* what does substring() do
+* what does replaceFirst() do
+* what does replaceAll() do
+* what does startsWith() d0
+* what does subSequence() do
+* toCharArray() 
+* what does toLowerCase() do
+* what does trim() do
+* what does toString() do
+* what does toUpperCase() do
+* what does valueOf() do
+* when using list and arraylist - do you need to import them
+* how do you make a string array
+* are arrays mutable
+* can you add items to arrays
+* can you remove items from arrays
+* what is Collections
+* what is Arrays
+* what is the difference between an array and an array list
+* how would you create a new array with 5 zeros
+* what does get() do
+* what does set() do
+* what does remove() do
+* what does indexOf() do
+* what does lastIndexOf() do
+* what does toArray() do
+* what does size() do
+* what does clear() do
+* what does copy() do
 
 
 
