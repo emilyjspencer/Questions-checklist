@@ -333,6 +333,46 @@
 * what does size() do
 * what does clear() do
 * what does copy() do
+* what is an abstract class
+* can abstract classes be instantiated
+* can abstract classes contain both abstract methods and non-abstact methods
+* what are the purposes of the static keyword
+* how do we create a class that inherits from another class
+* on a UML diagram, what is used to denote inheritance
+* on a UML diagram, what is used to denote a dependency
+* on a UML diagram , what is used to denote composition
+* on a UML diagram, what is used to denote an association
+* on a UML diagra, what is used to denote an aggregation
+* what are the different types of dependencies
+* which dependency is the 'strongest'
+* which dependency is the 'weakest;
+* what is encapsulation
+* what is inheritance
+* what is abstraction
+* what is polymorphism
+* give an example of abstraction
+* what is a concrete class
+* what are the benefits associated with inheritance
+* what are the benefits associated with abstraction
+* what are the benefits associated with polymorphism
+* what are the benefits associated with encapsulation
+* what does the private keyword do
+* what does the protected keyword do
+* what does the public keyword do
+* which of the above is the default
+* what is another term for the parent class
+* what is another term for the child class
+* what is meant by vertical constructor chaining
+* what is a generalization
+* what are the features of inheritance
+* what is meant by an 'IS A' relationship
+* what does a child class inherit from its parent
+* what is super()
+* what does a child class not inherit from its parent
+
+
+
+
 
 
 
