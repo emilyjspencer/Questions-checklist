@@ -369,6 +369,30 @@
 * what does a child class inherit from its parent
 * what is super()
 * what does a child class not inherit from its parent
+* what is meant by a 'HAS A' relationship
+* what is a realization
+* when is there a dependency(dependency type)
+* when is there an association(dependency type)
+* when is there an aggregration(dependency type)
+* when is there a composition(dependency type)
+* which of these is the weakest
+* which of these is the strongest
+* what is meant by horizontal constructor chaining
+* what does an abstract method not have
+* where is this missing ....... put
+* with interfaces - what keyword is used by the classes that are using the interface
+* with abstract classes - what keyword is used by the classes that are inheriting from the abstract class
+* how do you make a class immutable
+* how do you prevent a class from being able to have children
+* what is overriding
+* what is overloading
+* with which three of the four dependencies can objects of two classes exist independently of each other
+* In a UML diagram, what is denoted by -
+* In a UML diagram, what is denoted by +
+* In a UML diagram, what is denoted by #
+* which types of classes can't use the final keyword in their header
+* In a UML diagram, how are abstract classesd denoted
+* What is the purpose of @Override
 
 
 
