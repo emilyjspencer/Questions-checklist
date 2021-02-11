@@ -391,8 +391,24 @@
 * In a UML diagram, what is denoted by +
 * In a UML diagram, what is denoted by #
 * which types of classes can't use the final keyword in their header
-* In a UML diagram, how are abstract classesd denoted
+* In a UML diagram, how are abstract classes denoted
 * What is the purpose of @Override
+* What are the two types of polymorphism
+* what do interfaces not have
+* in an interface, all attributes are implicitly ......
+* what is overriding related to
+* what is overloading related to
+* how do you prevent overriding
+* is @Override mandatory
+* how can you check that a method has actually been overridden
+* what does equals() do
+* what does equals() return
+* what does hashcode() do
+* what does hashcode() return
+* how do you override equals() and hashcode() using the wizard
+* what is meant by overloading constructors
+* what is the this() method - with regards to overloading
+
 
 
 
