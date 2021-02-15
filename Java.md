@@ -408,6 +408,40 @@
 * how do you override equals() and hashcode() using the wizard
 * what is meant by overloading constructors
 * what is the this() method - with regards to overloading
+* how do you create a HashMap
+* how do you access an item in a HashMap
+* How do you remove all items from a HashMap
+* how do you find out how many items are in a HashMap
+* how do you add an item to a HashMap
+* how do you remove an item from a Hashmap
+* what is the keySet() method
+* what is the values() method
+* how do you loop through a Hashmap
+* what is a HashMap like in Ruby, JavaScript and Python
+* what is BeforeEach - testing
+* what is BeforeAll - testing
+* what is AfterAll - testing
+* what are the signs of a good test
+* What is a HashSet
+* what is the pom.xml file
+* what are the different annottations and what do they do (JUnit)
+* what is the arrange-act-assert pattern
+* what is AfterEach - testing
+* Why use inner classes
+* what is AssertEquals()
+* what is AssertNotEquals()
+* what is assertTrue()
+* what is assertNull()
+* what is assertFalse()
+* what is assertNotNull()
+* what is assertArrayEquals()
+* test should be ....... (five things)
+* what is SOLID
+* what is Mockito
+* is the default constructor visible
+
+
+
 
 
 
