@@ -506,7 +506,10 @@
 * what are static variables also known as
 * what are static methods also known as
 * can final methods be overridden by subclasses
-
+* what are the benefits of encapsulation
+* how do you make attributes read-only
+* how do you make attributes write-only
+* how do can you achieve encapsulation 
 
 
 
