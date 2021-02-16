@@ -437,8 +437,48 @@
 * what is assertArrayEquals()
 * test should be ....... (five things)
 * what is SOLID
+* how do you create a wrapper object
+* can primitive types be used with ArrayList
 * what is Mockito
+* how do you get the value of a wrapper object
 * is the default constructor visible
+* what is the wrapper method toString()
+* which data types are actually objects
+* how do you add items to a HashSet
+* how do you check if an item exists in a HashSet
+* how do you remove an item from a HashSet
+* what is the Collections framework
+* What interfaces does the Collection framework have
+* What classes does the Collection framework have
+* What is each entry in a Collection called
+* name some Collection objects
+* how do you loop through a HashSet
+* what is the equivalent of a HashSet in Python
+* under what circumstances must we use wrapper classes
+* are Lists ordered or unordered
+* are Sets ordered or unordered
+* are Maps ordered or unordered 
+* what is a Queue
+* with ordered lists can elements be accessed by index
+* with unordered lists can elements be accessed by index
+* name some classes that implement the List interface
+* what is meant by a FIFO
+* what is a PriorityQueue
+* what is the peek() method
+* what is the poll() method
+* are sets ordered
+* do sets allow duplicates
+* name some classes that implement the Set interface
+* can Maps have duplicate keys
+* can Maps have duplicate values
+* what does put() do (Map)
+* what does keySet() do
+* what are the benefits of using a vector as opposed to an ArrayList
+* what is the purpose of a Queue
+* what are the benefits of using a HashMap
+* what does entrySet() do
+
+
 
 
 
