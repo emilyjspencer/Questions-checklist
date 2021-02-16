@@ -492,8 +492,20 @@
 * what is getLast() = LinkedList
 * what is a Vector
 * what is a TreeSet
+* what are the non-access modifiers
 * what is the Comparable interface
 * what is the Comparator interface
+* name some collection objects
+* how do you return a set of keys from a map
+* how do you return a collection of values from a map
+* what is the wrapper class for short
+* how do you add key value pairs to a map
+* how do you retrieve a value based on a key
+* how do you check if a map has a certain key
+* how do you check if a map has a certain value
+* what are static variables also known as
+* what are static methods also known as
+* can final methods be overridden by subclasses
 
 
 
