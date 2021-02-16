@@ -477,6 +477,24 @@
 * what is the purpose of a Queue
 * what are the benefits of using a HashMap
 * what does entrySet() do
+* what is Array's asList() method
+* what is forward - (LinkedList)
+* how do ArrayLists work behind the scenes
+* how do LinkedLists work behind the scenes
+* when would you use an ArrayList instead of a LinkedList
+* when would you use a LinkedList instead of an ArrayList
+* what interface do ArrayList and LinkedList implement
+* what is addFirst() - LinkedList
+* what is addLast()	- LinkedList	
+* what is removeFirst()	- LinkedList
+* what is removeLast() - LinkedList
+* what is getFirst() - LinkedList	
+* what is getLast() = LinkedList
+* what is a Vector
+* what is a TreeSet
+* what is the Comparable interface
+* what is the Comparator interface
+
 
 
 
