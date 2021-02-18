@@ -510,6 +510,17 @@
 * how do you make attributes read-only
 * how do you make attributes write-only
 * how do can you achieve encapsulation 
+* what is the pom.xml
+* what dependencies do we need for junit and mockito
+* what does mockito enable us to do
+* what keywords are used when stubbing
+* what import needs to be manually imported for Mockito - 
+* what line instantiates the mock objects
+* what is meant by generics
+* what does generics enable us to do
+* what is the purpose of the verify keyword
+* what are the limitatons of JUnit
+* what are the benefits associated with mocking
 
 
 
