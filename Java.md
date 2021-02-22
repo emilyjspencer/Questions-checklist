@@ -525,6 +525,39 @@
 * when shouldn't we mock
 * what version of java do we need for mockito to work
 * how do we update with eclipse
+* what is an optional
+* what is the purpose of an optional
+* what are some of the methods that belong to the Optional class
+* what is the purpose of a lambda
+* can you define data types with lambdas
+* what is the purpose of functional interfaces
+* what are the built-in interfaces
+* what are the return types and number of arguments
+* why might you create a custom functional interface
+* what does the isPresent() method do
+* what method will return the value from an optional
+* what method throws a custom exception in place of a null pointer exception
+* what method replaces a null value with an object
+* what does the ifPresent() method do
+* what method should get() be used in conjunction with
+* what is a Stream
+* what is the purpose of streams
+* what is the difference between an ArrayList and an array
+* what does an intermediate operation do
+* what does a terminal operation do
+* which are the two most common intermediate operations
+* how do you create a stream from a collection
+* how do you create a stream from an array
+* what does filter() do (streams)
+* what does map() do (streams)
+* what is the finally block
+* what is the catch block
+* what is the try block
+* what does count() do (streams)
+* what does collect() do (streams)
+* what is toList()
+
+
 
 
 
