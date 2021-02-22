@@ -521,6 +521,12 @@
 * what is the purpose of the verify keyword
 * what are the limitatons of JUnit
 * what are the benefits associated with mocking
+* when mock
+* when shouldn't we mock
+* what version of java do we need for mockito to work
+* how do we update with eclipse
+
+
 
 
 
