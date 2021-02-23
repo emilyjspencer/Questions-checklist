@@ -581,7 +581,22 @@
 * what are the two ways to create a thread
 * how do you run a thread if the class extends the Thread class
 * how do you run a thread if the class implements the Runnable interface
-
+* how many stacks are there per thread
+* how many heaps are there per JVM
+* what problems are associated with concurrency
+* what is setDaemon()
+* what is join()
+* what is start()
+* what is a Race condition
+* how can we avoid race conditions
+* what is synchronization
+* what is the isAlive() method
+* what is meant by idle time
+* what is the purpose of the run() method
+* what are the differences between a thread and a process
+* a process split into two threads will run more quickly or slowly than a single threaded process
+* what thread does every Java application have
+* what is the scheduler
 
 
 
