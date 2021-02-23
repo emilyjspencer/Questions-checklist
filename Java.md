@@ -556,7 +556,31 @@
 * what does count() do (streams)
 * what does collect() do (streams)
 * what is toList()
-
+* how many arguments would you pass to a comparator
+* when do terminal operations return an Optional
+* what is IntStream
+* what is DoubleStream
+* what is LongStream
+* what are the three categories of design pattern
+* what is the Singleton
+* what is the Factory method
+* what is the Adaptor
+* what is the Observer
+* what is the Command
+* what is the Object Pool
+* what is concurrency
+* what is context switching
+* what is a thread
+* what are the benefits of threads
+* what is the difference between singlethreading and multithreading
+* what is the stack
+* what is the heap
+* how does concurrency work
+* what are the downsides to context switching
+* what could be a real-life example of something using multiple threads
+* what are the two ways to create a thread
+* how do you run a thread if the class extends the Thread class
+* how do you run a thread if the class implements the Runnable interface
 
 
 
