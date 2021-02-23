@@ -597,6 +597,32 @@
 * a process split into two threads will run more quickly or slowly than a single threaded process
 * what thread does every Java application have
 * what is the scheduler
+* what are the different thread states
+* what is the Runnable queue
+* how can you create threads on the fly
+* what is the sleep() method
+* what are the temporary states that a thread may enter when it is running
+* is sleep() an instance or static method
+* what is 1000 miliseconds
+* what is the lock() method
+* what is the unlock() method
+* what is a synchronized method
+* what is a synchronized block
+* what is the ReentrantLock class
+* what is the tryLock() method
+* what is the readLock() method
+* what is the writeLock() method
+* what is the Reentrant ReadWrite class
+* what is Deadlock
+* what is Livelock
+* what is Starvation
+* what is the Wait / notify mechanism
+* does JS support multithreading
+* does Python support multithreading
+* does Ruby support multithreading
+* what is another word for context switching
+* why might you thread a class that can run in its own thread by implementing the Runnable interface instead of extending the Thread class
+
 
 
 
